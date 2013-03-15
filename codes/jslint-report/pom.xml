@@ -33,4 +33,11 @@
     </dependency>
 
   </dependencies>
+
+  <distributionManagement>
+    <repository>
+      <id>thirdparty</id>
+      <url>http://turtleship/nexus/content/repositories/thirdparty</url>
+    </repository>
+  </distributionManagement>
 </project>
